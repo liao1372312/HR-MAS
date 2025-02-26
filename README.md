@@ -2,9 +2,9 @@
 
 ## Introduction
 
-This repository contains the code for the paper **HR-MAS** (Human-Robot Multi-Agent System). The project is still in progress and the code will be made available once the final version is organized.
+This repository contains the code for the paper **HR-MAS** (Historical Reinforcement-based Multi-Agent Service Composition ). The project is still in progress and the code will be made available once the final version is organized.
 
-The HR-MAS framework focuses on enhancing human-robot interaction by utilizing multi-agent systems to improve communication, task coordination, and decision-making.
+This repository contains the code for the HR-MAS framework, which is designed to improve decision-making processes in multi-agent service composition environments.
 
 ## Getting Started
 
